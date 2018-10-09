@@ -1,0 +1,19 @@
+h1{
+    color: navy
+}
+
+.navbar-light .navbar-brand {
+    color: gray;
+}
+
+.jumbotron {
+    background-image: url(bighouse.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 275px
+}
+
+.headline {
+    font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Permanent Marker', cursive;
+}
